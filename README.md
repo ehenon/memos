@@ -1,5 +1,7 @@
 # Memos 💭
 
+Catch-all project including tutorials, tips, cheat sheets and memos of all kinds.
+
 | Subject | Label                                                                                                                            |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | Windows | [How to add the recycle bin to the Windows 10 taskbar](./windows/how_to_add_the_recycle_bin_to_the_windows_10_taskbar/README.md) |
