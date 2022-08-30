@@ -11,4 +11,5 @@
 9. Right-click the taskbar and and check the `Lock the taskbar` option to cement the Recycle Bin shortcut's position
 
 Now you can open/empty the Recycle Bin from the taskbar without returning to the desktop:
+
 ![image](./assets/screenshot.PNG)
