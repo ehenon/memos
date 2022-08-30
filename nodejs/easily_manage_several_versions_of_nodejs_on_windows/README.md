@@ -13,7 +13,9 @@ $ nvm use 16.15.1
 
 Now you have version `16.15.1` of Node.js installed and used on your computer.
 
-If you need another one in the future, you can run the same commands `nvm install` (to install a new version) and `nvm use` (to use a particular one).
+If you need another one in the future, you can run the same commands:
+- `nvm install` (to install a new version)
+- `nvm use` (to use a particular one).
 
 To list the different versions available on your computer, you can run the `nvm ls` command. An asterisk will be present next to the version in use:
 
