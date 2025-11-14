@@ -8,6 +8,7 @@ Catch-all project including tutorials, tips, cheat sheets and memos of all kinds
 | Git        | [GitHub Git cheat sheet](./git/github_git_cheat_sheet/github-git-cheat-sheet.pdf)                                                |
 | Git        | [GitLab Git cheat sheet](./git/gitlab_git_cheat_sheet/gitlab-git-cheat-sheet.pdf)                                                |
 | Git        | [Atlassian Git cheat sheet](./git/atlassian_git_cheat_sheet/atlassian-git-cheat-sheet.pdf)                                       |
+| NestJS     | [OpenAPI discriminators in the context of a TypeScript NestJS HTTP API](./nestjs/open-api-discriminators/README.md)              |
 | Node.js    | [Easily manage several versions of Node.js on Windows](./nodejs/easily_manage_several_versions_of_nodejs_on_windows/README.md)   |
 | TypeScript | [Types cheat sheet](./typescript/TypeScript-Types-Cheat-Sheet.pdf)                                                               |
 | TypeScript | [Interfaces cheat sheet](./typescript/TypeScript-Interfaces-Cheat-Sheet.pdf)                                                     |
